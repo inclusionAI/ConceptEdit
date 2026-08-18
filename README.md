@@ -1,4 +1,4 @@
-# Concept: Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision
+# ConceptEdit: Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision
 
 <div align="center">
 
