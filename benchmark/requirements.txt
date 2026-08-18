@@ -1,0 +1,8 @@
+torch
+torchvision
+diffusers
+transformers
+pillow
+tqdm
+openai
+gradio

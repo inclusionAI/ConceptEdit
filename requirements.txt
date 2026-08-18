@@ -1,0 +1,11 @@
+# Core runtime
+torch>=2.1
+diffusers>=0.30
+transformers>=4.40
+Pillow>=10.0
+tqdm>=4.66
+
+# OpenAI-compatible client used to call VLM / LLM endpoints
+openai>=1.30
+
+# Optional: add an object-storage client library here if needed by your backend.

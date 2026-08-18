@@ -1,0 +1,22 @@
+# Local secrets — never commit
+config.py
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtualenvs
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Pipeline output (typically very large)
+output/
+*.png
+*.jpg
+*.jpeg
+!assets/**

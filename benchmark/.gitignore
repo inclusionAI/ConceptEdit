@@ -1,0 +1,18 @@
+# Runtime outputs
+results/
+data/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment files
+.env
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
