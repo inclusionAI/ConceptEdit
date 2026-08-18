@@ -1,13 +1,12 @@
-# Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision
+# Concept: Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/ArXiv-2608.16812-b31b1b?logo=arxiv)](https://arxiv.org/abs/2608.16812)&nbsp;
-[![Github](https://img.shields.io/badge/GitHub-ConceptEdit-181717?logo=github)](https://github.com/inclusionAI/ConceptEdit)&nbsp;
-[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-ConceptEdit--12M-yellow)](https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M)&nbsp;
-[![Hugging Face Benchmark](https://img.shields.io/badge/%F0%9F%A4%97%20Benchmark-ConceptEdit--Bench-yellow)](https://huggingface.co/datasets/inclusionAI/ConceptEdit-Bench)&nbsp;
+[![arXiv](https://img.shields.io/badge/ArXiv-2608.16812-b31b1b?logo=arxiv)](https://arxiv.org/abs/2608.16812)&nbsp;[![Github](https://img.shields.io/badge/GitHub-ConceptEdit-181717?logo=github)](https://github.com/inclusionAI/ConceptEdit)&nbsp;[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-ConceptEdit--12M-yellow)](https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M)&nbsp;[![Hugging Face Benchmark](https://img.shields.io/badge/%F0%9F%A4%97%20Benchmark-ConceptEdit--Bench-yellow)](https://huggingface.co/datasets/inclusionAI/ConceptEdit-Bench)
 
 </div>
+
+dataset正在上传中
 
 ---
 
